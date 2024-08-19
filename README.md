@@ -1,6 +1,10 @@
-![Artificial Intelligence](https://github.com/Angad143/Angad143/blob/main/Artificial%20Intelligence.png)
+<p align="center">
+  <img src="https://github.com/Angad143/Angad143/blob/main/Artificial%20Intelligence.png" alt="Artificial Intelligence" width="1000" height="400"/>
+</p>
 
 <h1 align="center">Hi there 👋, I'm Angad Gupta</h1>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angad143&label=Profile%20views&color=0e75b6&style=flat" alt="angad143" /> </p>
 
