@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Angad143/Angad143/blob/main/Artificial%20Intelligence.png" alt="Artificial Intelligence" width="1000" height="400"/>
+  <img src="https://github.com/Angad143/Angad143/blob/main/Artificial%20Intelligence.png" alt="Artificial Intelligence" width="1000" height="350"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Angad Gupta</h1>
