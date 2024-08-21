@@ -25,7 +25,7 @@
   <a href="www.linkedin.com/in/angad-gupta143">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100069680269689">
+  <a href="https://www.facebook.com/gangad143/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://kaggle.com/Angad12345">
